@@ -1,5 +1,5 @@
 # Тестовое задание для "Sepium Group" (easy - static)
-* [Ссылка на проект Git-Hub Pages](https://limerok.github.io/)
+* [Ссылка на проект Git-Hub Pages](https://limerok.github.io/Sepium-Group_Equipment-catalog/)
 
 ## Задание:
 Заверстайте ПК версию любой из этих трех макетов, используя HTML5, CSS3, JS (допускается JQuery и любые необходимые JS библиотеки)
@@ -20,3 +20,4 @@
 - Удаленный репозиторий Git-Hub;
 - Консоль Git-Bash;
 - Сжатие фотографий (FileOptimizer);
+- Сервис генерации Favicon (https://realfavicongenerator.net)
