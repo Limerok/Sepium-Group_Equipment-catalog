@@ -1,0 +1,15 @@
+.list-category__caption {
+  font-family: 'Manrope', 'Arial', sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+  color: #787878;
+  padding: 0;
+  margin: 0;
+}
+
+@media (min-width:1600px) {
+  .list-category__caption {
+    font-size: 14px;
+  }
+}

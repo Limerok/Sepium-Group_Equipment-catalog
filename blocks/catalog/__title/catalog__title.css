@@ -1,0 +1,13 @@
+.catalog__title {
+  font-family: 'PT Sans Caption', 'Arial', sans-serif;
+  font-weight: 400;
+  font-size: 58px;
+  line-height: 64px;
+  color: #181818;
+  max-width: 1200px;
+  min-width: 882px;
+  width: 100%;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}

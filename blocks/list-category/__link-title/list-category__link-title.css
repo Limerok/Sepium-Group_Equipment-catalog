@@ -1,0 +1,9 @@
+.list-category__link-title {
+  text-decoration: none;
+  color: #181818;
+  transition: 0.3s;
+}
+
+.list-category__link-title:hover {
+  color: #787878;
+}

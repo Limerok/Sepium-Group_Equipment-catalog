@@ -1,0 +1,7 @@
+.list-category {
+  list-style-type: none;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
